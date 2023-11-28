@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+      
+}
+.two{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex; 
+}
+.kiki{
+    margin-left: 2px;
+}
+.kiki a{
+    color: aliceblue;
+    padding: 10px;
+    list-style: none;
+}
+.wewe{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    font-size: 30px;
+}
+.rom{
+    color: red;
+}
+.btn{
+    background-color: red;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: left;
+    color: white;
+}
+.fi{
+    color: white;
+}
+.one{
+    display: flex;
+
+}
+.three{
+    display: flex;
+}
+.TV{
+    color: white;
+}
+.dog{
+    display: flex;
+}
+.for{
+    color: white;
+}
+.di{
+    display: flex;
+}
+.container{
+    display: flex;
+    color: white;
+}
+.foot{
+    justify-content: center;
+}
+.nope{
+    background-image: url(myassets/Netflix Clone in Figma\(Community)/image 33.png);
+    color: white;
+}
+    

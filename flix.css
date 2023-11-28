@@ -1,3 +1,98 @@
+
+#flex{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 50px;
+    color: aliceblue;
+}
+body{
+    background:linear-gradient(black, rgb(94, 5, 5)) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: rgb(162, 170, 177);
+} 
 .pit{
     display: flex;
+}
+.prof{
+    position: relative;
+    bottom: 50px;
+    left: 150px;
+}
+.ref{
+    position: relative;
+    left: 50px;
+    font-size: 30px;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.pics{
+    display: flex;
+}
+#phrase{
+    border:solid 1px;
+    margin-right: 1450px; 
+}
+#net{
+position: relative;
+left: 3%;
+font-size: 95px;
+}
+.heist{
+    position: relative;
+    left: 3%;
+}
+.n{
+    position: relative;
+    bottom: 1340px;
+    left: 450px;
+}
+.name{
+    position: relative;
+    left: 40%;
+    bottom: 2000px;
+}
+#collection{
+    position: relative;
+    bottom: 1900px;
+}
+.Email{
+    border: solid;
+    background-color: black;
+    margin-right: 1000px;
+    position: relative;
+    bottom: 1900px;
+}
+.pp{
+    border: solid;
+    background-color: rgb(88, 80, 80);zzz
+}
+.container{
+    position: relative;
+    background-color:blue;
+} .container.label{
+     border-radius:20px ;
+}
+.form{
+    background-color: black;
+    display: inline-block;
+    width: 300px max;
+
+}
+.log{justify-content: center;
+    align-items: center;
+    font-size: large;
 }
